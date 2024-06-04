@@ -181,26 +181,4 @@ class SocialMediaPresence:
             return data
 
 
-# In[13]:
-
-
-smp=SocialMediaPresence()
-
-
-# In[14]:
-
-
-text='<html><head></head><body><a href="http://twitter.com/smp">SMP</a></body></html>'
-
-
-# In[15]:
-
-
-smp.searchSocialMediaLinks("http://stat.gov.pl",text)
-
-
-# In[ ]:
-
-
-
 
